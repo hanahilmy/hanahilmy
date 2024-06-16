@@ -11,8 +11,3 @@ Thank you for learning more about me. I'm always excited to connect with others 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hanahilmy&theme=dracula&hide_border=true)<br/>
-
-### ✍️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
